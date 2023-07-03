@@ -13,3 +13,7 @@ Clone the repository and open the code. Run bundle install in the terminal to in
 
 # Models
 The application has two models: Hero and Power. The Hero model represents the superhero, while the Power model represents the superpower.
+
+# Validations
+The application validates that the Hero has a name, a real name, and an alias. The Power model also validates that the superpower has a name and a description.
+
