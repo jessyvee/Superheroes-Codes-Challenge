@@ -20,3 +20,6 @@ The application validates that the Hero has a name, a real name, and an alias. T
 # Routes
 The application has routes for the Hero and Power models. The Hero routes are /heroes and /heroes/:id. The Power routes are /powers and /powers/:id.
 
+# License
+This application is licensed under the Apache 2.0 License.
+
