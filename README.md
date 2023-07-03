@@ -17,3 +17,6 @@ The application has two models: Hero and Power. The Hero model represents the su
 # Validations
 The application validates that the Hero has a name, a real name, and an alias. The Power model also validates that the superpower has a name and a description.
 
+# Routes
+The application has routes for the Hero and Power models. The Hero routes are /heroes and /heroes/:id. The Power routes are /powers and /powers/:id.
+
